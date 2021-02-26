@@ -1,0 +1,12 @@
+@import "../../assets/scss/variables.scss";
+
+footer {
+  height: 65px;
+  background-color: $footerBackground;
+
+  p {
+    color: $white;
+    font-weight: 400;
+    font-size: 18px;
+  }
+}
